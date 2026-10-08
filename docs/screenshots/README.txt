@@ -1,0 +1,2 @@
+Copyright 2026 上海如静知华信息科技有限公司 · https://www.zhuatech.cn/ · 微信 zhuatech / zhuatech2
+Screenshots from the running LinguaDesk TEST instance; no customer or credential data.
